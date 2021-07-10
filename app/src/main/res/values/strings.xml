@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">chatapp</string>
+    <string name="Login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="chat_app">Chat App</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="username">Username</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search...</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="sendbutton">sendbutton</string>
+    <string name="hello">hello</string>
+    <string name="Username">username</string>
+    <string name="profile">Profile</string>
+    <string name="ChatApp" />
+    <string name="pic1" />
+    <string name="pic6" />
+    <string name="test2">Test2 </string>
+    <string name="pic5" />
+    <string name="pic4" />
+    <string name="pic3" />
+    <string name="pic2" />
+    <string name="profilepic" />
+    <string name="sholkss">Sholks</string>
+    <string name="vacubulery">Vacubulery</string>
+    <string name="basic">Basic</string>
+    <string name="stories">Stories</string>
+    <string name="test3">Test3</string>
+    <string name="ChatBot">ChatBot</string>
+    <string name="dash_broad">DashBorad</string>
+    <string name="title_activity_dash1">Dash1</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="dash">DashBorad</string>
+    <string name="my_dashboard">dashboradd</string>
+    <string name="sholk">Sholks</string>
+    <string name="stroies">Stroies</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="hello_there">Hello There!</string>
+    <string name="forgot_you_password">Forgot Password?</string>
+    <string name="your_email">Your Email</string>
+    <string name="reset">RESET</string>
+    <string name="by_clicking_reset_you_will_receive_an_email_to_reset_you_password">By Clicking Reset you will Receive an email to reset you password</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="newspaper">Newspaper</string>
+    <string name="education_magazine">Education Magazine</string>
+    <string name="tech_magazine">Tech-Magazine</string>
+    <string name="cricket">Cricket</string>
+    <string name="elections">Elections</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="market">Market</string>
+    <string name="forthetesting">ForThetesting</string>
+</resources>
